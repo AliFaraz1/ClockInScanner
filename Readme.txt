@@ -12,7 +12,7 @@ Before running the application, ensure you have the following prerequisites:
 
 - Java 11 LTS
 - Maven
-- MySQL Server
+- MySQL
 - MySQL Connector/J 8.0.23
 - Database named employeeData with sample data
 
